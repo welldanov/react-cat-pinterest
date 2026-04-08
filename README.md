@@ -5,7 +5,7 @@
 
 ## Демо
 
-**Live Demo:** _добавь сюда ссылку на GitHub Pages / Vercel_
+**Live Demo:** [React Cat Pinterest](https://welldanov.github.io/react-cat-pinterest/)
 
 ---
 
