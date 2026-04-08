@@ -1,0 +1,30 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+  background-color: var(--blue);
+}
+
+.container {
+  max-width: 1316px;
+  margin: 0 auto;
+  padding: 0 32px;
+}
+
+.tabs {
+  display: flex;
+}
+
+.tab {
+  padding: 23px 20px;
+  display: flex;
+  align-items: center;
+
+  color: var(--white);
+
+  &.active {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+  }
+}

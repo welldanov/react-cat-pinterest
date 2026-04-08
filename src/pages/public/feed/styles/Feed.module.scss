@@ -1,0 +1,22 @@
+.feed {
+  padding: 32px 0;
+}
+
+.container {
+  max-width: 1316px;
+  margin: 0 auto;
+  padding: 0 32px;
+}
+
+.items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(224px, 1fr));
+  gap: 32px;
+}
+
+.text {
+  color: var(--black);
+  font-size: 20px;
+  padding: 12px 0;
+  text-align: center;
+}
